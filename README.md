@@ -1,6 +1,10 @@
 # my hello-world
 
+<<<<<<< HEAD
+#副分支内容
+=======
 #master主分支内容
+>>>>>>> master
 
 ## Project setup
 ```
